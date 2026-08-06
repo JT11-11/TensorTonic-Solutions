@@ -1,0 +1,2 @@
+- for duplicated for submissions but drop_duplicates for removal of the rows.
+- .drop_duplicates() does not change the df unless u add in a argument of inplace = True
