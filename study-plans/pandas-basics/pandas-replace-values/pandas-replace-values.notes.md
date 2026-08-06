@@ -1,0 +1,2 @@
+- same as remaining everywhere else, you need inplace = True to do inplace changes
+- to count total no of values that is being swapped for X column, u can select that column and equal the rowsof that col with the value with .eq(vaue) then do .sum()
