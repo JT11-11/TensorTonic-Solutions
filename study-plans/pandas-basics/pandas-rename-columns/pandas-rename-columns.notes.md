@@ -1,0 +1,1 @@
+- to rename columns, pass in via .rename in dict column form and do inplace = True if u wanna inplce to be true.
