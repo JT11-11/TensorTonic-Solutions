@@ -1,0 +1,1 @@
+- if given a list of aggregation functions to use, use .agg(function_name) will do!
