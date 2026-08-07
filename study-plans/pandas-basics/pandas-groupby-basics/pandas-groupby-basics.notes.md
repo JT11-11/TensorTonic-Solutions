@@ -1,0 +1,1 @@
+- Main idea:** df.groupby(group_col)[value_col]**
